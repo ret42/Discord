@@ -23,6 +23,21 @@ Hi||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​|||
 
 In your terminal just type this command: (It can be on cmd etc..)
 
-```
+```py
 curl -X DELETE https://discord.com/api/webhooks/865710560355549214/MmtDtZSXwrOZ1Uq7Cda_XEF4fz35A5Ps9SixmokfjiCawbeuDNau3oNDWwYBf-q9ogVb
+```
+
+[Example in Video](https://www.youtube.com/watch?v=J8Zr5TOfWjk)
+
+-----------------
+
+- ### Edit symbol
+
+<img src="https://cdn.discordapp.com/attachments/862790029126664232/865711840104022017/unknown.png">
+
+This method using the "RTLE", "RIGHT-TO-LEFT EMBEDDING".
+Here is a script in python for reproduce it:
+
+```py
+
 ```
