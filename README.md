@@ -2,7 +2,7 @@
 
 -----------------
 
-Every embed are in python only for the syntax highlight, so when it's a script in python I will say it.
+Every embed are in python only for the syntax highlight, so when it's a script in python I will say it.<br><br>
 
 -----------------
 
@@ -19,7 +19,7 @@ Hi||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​|||
 ```py discord.gg/customurlwithoutboost||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​|| https://discord.gg/DzRzNJhG
 ```
 
-- You can also do this while pinging someone or other thing. (Make sure to put a space at the end)
+- You can also do this while pinging someone or other thing. (Make sure to put a space at the end)<br><br>
 
 -----------------
 
@@ -31,7 +31,9 @@ In your terminal just type this command: (It can be on cmd etc..)
 curl -X DELETE https://discord.com/api/webhooks/865710560355549214/MmtDtZSXwrOZ1Uq7Cda_XEF4fz35A5Ps9SixmokfjiCawbeuDNau3oNDWwYBf-q9ogVb
 ```
 
-[Example in Video](https://www.youtube.com/watch?v=J8Zr5TOfWjk)
+<br>
+
+[Example in Video](https://www.youtube.com/watch?v=J8Zr5TOfWjk)<br><br>
 
 -----------------
 
