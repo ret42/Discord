@@ -2,6 +2,10 @@
 
 -----------------
 
+Every embed are in python only for the syntax highlight, so when it's a script in python I will say it.
+
+-----------------
+
 - ### Hide everyone, invite etc...
 
 <img src="https://cdn.discordapp.com/attachments/858117820817473548/865706817598390272/unknown.png">
