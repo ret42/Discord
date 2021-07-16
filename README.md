@@ -19,5 +19,10 @@ Hi||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​|||
 
 -----------------
 
-- ### Token syntax
+- ### Delete webhook
 
+In your terminal just type this command: (It can be on cmd etc..)
+
+```
+curl -X DELETE https://discord.com/api/webhooks/865710560355549214/MmtDtZSXwrOZ1Uq7Cda_XEF4fz35A5Ps9SixmokfjiCawbeuDNau3oNDWwYBf-q9ogVb
+```
