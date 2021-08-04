@@ -55,3 +55,21 @@ Or instead you can just use this [link](http://www.unicode-symbol.com/u/202B.htm
 - ### Phone number
 
 For put a phone number on your discord account, use this website https://receive-smss.com/, some of numbers could not work because it's already taken by someone or others shit, one will work
+
+-----------------
+
+- ### Space in channel
+
+On computer it will look like this:
+
+<img src="https://cdn.discordapp.com/attachments/865706489951944717/872534781307543602/unknown.png">
+
+But on phone:
+
+<img src="https://cdn.discordapp.com/attachments/865706489951944717/872535072715206706/image0.png">
+
+Copy this char for the space:
+
+```py
+᲼
+```
