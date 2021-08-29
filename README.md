@@ -54,7 +54,7 @@ Or instead you can just use this [link](http://www.unicode-symbol.com/u/202B.htm
 
 - ### Phone number
 
-For put a phone number on your discord account, use this website https://receive-smss.com/, some of numbers could not work because it's already taken by someone or others shit, one will work
+For put a phone number on your discord account, use this website https://receive-smss.com/, some of numbers could not work because it's already taken by someone or others shit, but one will work
 
 -----------------
 
